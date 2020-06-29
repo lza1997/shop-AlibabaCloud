@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth.iml" filepath="$PROJECT_DIR$/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloudshop.iml" filepath="$PROJECT_DIR$/.idea/cloudshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-core/common-core.iml" filepath="$PROJECT_DIR$/common-core/common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-data/common-data.iml" filepath="$PROJECT_DIR$/common-data/common-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-feign/common-feign.iml" filepath="$PROJECT_DIR$/common-feign/common-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-security/common-security.iml" filepath="$PROJECT_DIR$/common-security/common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-sentinel/common-sentinel.iml" filepath="$PROJECT_DIR$/common-sentinel/common-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-swagger/common-swagger.iml" filepath="$PROJECT_DIR$/common-swagger/common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+    </modules>
+  </component>
+</project>

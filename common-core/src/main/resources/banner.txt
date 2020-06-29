@@ -1,0 +1,9 @@
+  o         o               o                                     o
+   ${AnsiColor.BRIGHT_YELLOW}
+////////////////////////////////////////////////////////////////////
+      老安架构 永远最新
+////////////////////////////////////////////////////////////////////
+
+Spring  Boot  Version: ${spring-boot.version}
+Spring  Cloud Version: Hoxton.SR4
+Alibaba Cloud Version: 2.2.1 RELEASE

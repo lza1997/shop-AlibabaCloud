@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lza.common.security.component.GlobalExceptionHandlerResolver,\
+  com.lza.common.security.component.ZaTokenEnhancer,\
+  com.lza.common.security.component.ZaSecurityInnerAspect,\
+  com.lza.common.security.listener.AuthenticationFailureEventListener,\
+  com.lza.common.security.listener.AuthenticationSuccessEventListener
+

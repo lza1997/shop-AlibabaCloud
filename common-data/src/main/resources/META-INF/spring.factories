@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.lza.common.data.cache.RedisTemplateConfig,\
+    com.lza.common.data.cache.RedisCacheManagerConfig,\
+    com.lza.common.data.cache.RedisCacheAutoConfiguration,\
+    com.lza.common.data.tenant.ZaTenantConfigProperties,\
+    com.lza.common.data.tenant.TenantContextHolderFilter,\
+    com.lza.common.data.mybatis.MybatisPlusConfiguration,\
+    com.lza.common.data.resolver.WebMvcConfig

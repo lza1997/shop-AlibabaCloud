@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lza.common.core.config.JacksonConfig,\
+  com.lza.common.core.config.MessageSourceConfig,\
+  com.lza.common.core.config.RestTemplateConfig,\
+ com.lza.common.core.util.SpringContextHolder
